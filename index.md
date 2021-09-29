@@ -24,10 +24,11 @@ PALETTE ] `
 * `--background`
     * Adds a background to the source image. Useful for images with
       transparency
-* `--palette PALETTE` or `--palette COLORS`
+* `--palette PALETTE` or `--palette NUM_COLORS`
     * Can either be the name of a palette or a number which represents the
       number of colors in the palette, based on the colors of the image
-    * Check [the available palettes](#available-palettes) for more
+    * The maximum value of `NUM_COLORS` is 5
+    * Check [the available palettes](#available-palettes) for more palettes
 
 
 ## Examples
