@@ -34,13 +34,16 @@ PALETTE ] `
 ## Examples
 
 Generate a smiley face avatar, resize with Lanczos algorithm:
+
 `https://m.media-amazon.com/images/I/51zLZbEVSTL._AC_SL1200_.jpg`
 
 Generate a smiley face avatar, resize with bicubic interpolation and flip the
 image:
+
 `https://m.media-amazon.com/images/I/51zLZbEVSTL._AC_SL1200_.jpg -r BICUBIC -f`
 
 Generate a smiley face avatar with the "Gameboy" palette:
+
 `https://m.media-amazon.com/images/I/51zLZbEVSTL._AC_SL1200_.jpg --palette Gameboy`
 
 # Palettes
@@ -61,8 +64,6 @@ changing the colorscheme of any existing avatar.
 * Monochrome
 
 ## Demonstration
-
-`https://twocansandstring.com/uploads/drawn/27538.png --palette Gameboy`
 
 Original:
 
